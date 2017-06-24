@@ -1,3 +1,5 @@
+![vue实现简单记事本](note.gif)
+
 # note
 
 > A Vue.js project
